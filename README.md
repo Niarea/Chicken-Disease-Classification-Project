@@ -1,1 +1,1 @@
-# Chicken_Disease_Classification_Project
+# Chicken-Disease-Classification-Project
