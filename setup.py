@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Chicken-Disease-Classification-Project"
-AUTHOR_USER_NAME = "Niare"
+REPO_NAME = "Chicken-Disease-Classification--Project"
+AUTHOR_USER_NAME = "Niarea"
 SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "niareadama190796@gmail.com"
 
@@ -21,7 +21,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
-    projects_url={
+    project_urls={
         "Bug Tracker": f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
     },
     package_dir={"": "src"},
